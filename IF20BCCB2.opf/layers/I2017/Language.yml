@@ -1,0 +1,99 @@
+id: a28b449524dd47d5b8f2ba79f6f2cfbd
+annotation_type: Language
+revision: '00001'
+annotations:
+  9fa8dd6c5cd340faad4b4c7870dec757:
+    span:
+      start: 0
+      end: 150
+    language: en
+  e3a4b9618c584882b4a58939b9df719b:
+    span:
+      start: 189
+      end: 639
+    language: en
+  4d0927cdafb0443f933103cd2d0e0af9:
+    span:
+      start: 34025
+      end: 34048
+    language: en
+  90f4c83b88a9426895a8474cf11eedaa:
+    span:
+      start: 206203
+      end: 206231
+    language: en
+  99918090c0454b6b866ffdc49139f8c8:
+    span:
+      start: 270393
+      end: 270435
+    language: en
+  9f0343f8112643b3a7e13619ced7bbdb:
+    span:
+      start: 329411
+      end: 329454
+    language: en
+  e1771b06fd5a4f0387a34145fc4f80e1:
+    span:
+      start: 441377
+      end: 441416
+    language: en
+  5f29eb24b85149729816d92336de328c:
+    span:
+      start: 512133
+      end: 512154
+    language: en
+  46c7fc18297e4f26bee9e4abdf52abf0:
+    span:
+      start: 837619
+      end: 837647
+    language: en
+  d715a92346e04146a4567fbf9fb283dd:
+    span:
+      start: 907474
+      end: 907515
+    language: en
+  d9a66cf7c24043be96b5d44dcc8e10d4:
+    span:
+      start: 948741
+      end: 948769
+    language: en
+  b83cdce342cd46e4a134e49a73654afe:
+    span:
+      start: 997036
+      end: 997096
+    language: en
+  4507ecbee5da4fecbc93d8b8d1d018be:
+    span:
+      start: 1124426
+      end: 1124460
+    language: en
+  a811b5a784654ccc980e941417fff3fe:
+    span:
+      start: 1127153
+      end: 1127246
+    language: en
+  63904759f36d4de098b164e09805b3ec:
+    span:
+      start: 1248115
+      end: 1248281
+    language: en
+  7a7abb8fb3244d79b3f53a7c3f3cf2a2:
+    span:
+      start: 1248309
+      end: 1250641
+    language: en
+  c0775299fc1b41209621a793fe6bb3bb:
+    span:
+      start: 1250680
+      end: 1250789
+    language: en
+  843252b382dd488094788e46e48a79ba:
+    span:
+      start: 1250886
+      end: 1250953
+    language: en
+  5cb1ff5ea31b4615b30e4cd5fbf8de44:
+    span:
+      start: 1250982
+      end: 1251521
+    language: en

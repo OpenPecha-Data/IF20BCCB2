@@ -1,0 +1,99 @@
+id: 343e4a7fed704aa1b5b1656bf6d2c982
+annotation_type: Language
+revision: '00001'
+annotations:
+  2e9dbea337f84af9a81b098223e21c1a:
+    span:
+      start: 0
+      end: 146
+    language: en
+  818ba40daf404bb5bd841f3d4ea6bee5:
+    span:
+      start: 186
+      end: 640
+    language: en
+  662c2e4153df410ba52c2accd978ba5f:
+    span:
+      start: 327947
+      end: 327968
+    language: en
+  e370a5564ce84c53ac14122c2acded6d:
+    span:
+      start: 511513
+      end: 511538
+    language: en
+  10250df86170446198a2803a55f3efb4:
+    span:
+      start: 688884
+      end: 688921
+    language: en
+  60ba9db884224caca97fc8c988633e1e:
+    span:
+      start: 735375
+      end: 735397
+    language: en
+  6c57160fe8f644c1af994a6caf6ec980:
+    span:
+      start: 797102
+      end: 797124
+    language: en
+  b27251a4ab12471baec0938fb086c28d:
+    span:
+      start: 838307
+      end: 838329
+    language: en
+  7808248f4a9c4edca7b4875b16c68713:
+    span:
+      start: 852583
+      end: 852626
+    language: en
+  0d50526850494a58ae675dc90a178b09:
+    span:
+      start: 942284
+      end: 942358
+    language: en
+  8cd698596e4a4fccbe1338a617c81b0c:
+    span:
+      start: 1034581
+      end: 1034602
+    language: en
+  b7d7e40fb01a4f8a9cc413f8f4513624:
+    span:
+      start: 1119126
+      end: 1119153
+    language: en
+  cc19067019a34053888e9f0b8f177bf5:
+    span:
+      start: 1124576
+      end: 1124609
+    language: en
+  cfe6228cdb9a4355be114b96f375195e:
+    span:
+      start: 1164031
+      end: 1164054
+    language: en
+  ca4e050451ae40788bb48845eb0d0b68:
+    span:
+      start: 1248562
+      end: 1248725
+    language: en
+  553e3e48471f43bf8fa7d774588f9a42:
+    span:
+      start: 1248753
+      end: 1251080
+    language: en
+  db53ae68d89b41e79590512fc6e06737:
+    span:
+      start: 1251120
+      end: 1251229
+    language: en
+  a4bf76db60f84913bc9d14361cbaad38:
+    span:
+      start: 1251325
+      end: 1251393
+    language: en
+  ce73c2dc2f0e41d1b1a44d683d59eca6:
+    span:
+      start: 1251421
+      end: 1251959
+    language: en
